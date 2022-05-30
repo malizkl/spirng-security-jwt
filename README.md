@@ -3,10 +3,10 @@
 ### in this repo made some changes on original repo.
 
 ## Changes 
--application.properties-
+### -application.properties-
 server.port = 8090
 logging.level.org.springframework=TRACE
--JwtUtil-
+### -JwtUtil-
 used DecodedJWT instead of claims
 
 
